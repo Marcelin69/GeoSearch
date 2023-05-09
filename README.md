@@ -11,3 +11,4 @@ GeoSearch est un projet en PHP et API qui permet aux utilisateurs de rechercher 
 Le projet utilise des appels API RESTful pour recueillir et afficher les données, offrant une interface efficace et conviviale aux utilisateurs pour accéder aux informations dont ils ont besoin. De plus, GeoSearch comprend des fonctionnalités telles que des suggestions de recherche dynamiques et la possibilité de sauvegarder des pays favoris pour un accès rapide.
 
 L'objectif pour les étudiants est de se familiariser avec les API et de les intégrer dans une application web basée sur PHP. En réalisant ce projet, les étudiants acquerront les compétences nécessaires pour construire des applications similaires qui peuvent récupérer et afficher des données à partir de différentes sources.
+
