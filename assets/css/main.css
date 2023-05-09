@@ -66,6 +66,7 @@ aside p {
 main {
   height: 100vh;
   padding: 80px 100px 20px 100px;
+  margin-bottom: 2rem;
 }
 
 footer {
@@ -112,7 +113,6 @@ footer {
 .big-text {
   font-size: 6vw;
   font-weight: 800;
-  margin: 3rem 0;
 }
 
 /* Media Queries */
